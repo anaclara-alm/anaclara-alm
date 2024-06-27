@@ -29,3 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
+
+
+<details>
+  <summary>Profile Views</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=anaclara-alm&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4">
+</details>
+
